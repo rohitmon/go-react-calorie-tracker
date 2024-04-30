@@ -1,4 +1,4 @@
-module github.com/rohitmon/go-react-calorie-tracker
+module github.com/rohitmon/go-react-calorie-tracker/server
 
 go 1.22.2
 
